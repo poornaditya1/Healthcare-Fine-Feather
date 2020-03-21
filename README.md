@@ -29,3 +29,5 @@ The database stores all informtion about the patients that will be relevant for 
 ![Screenshot (111)](https://user-images.githubusercontent.com/42487913/77227047-24d4f980-6ba3-11ea-9b20-4cdb64ccb0c6.png)
 
 ![Screenshot (112)](https://user-images.githubusercontent.com/42487913/77227050-2b637100-6ba3-11ea-8fc3-158ed781d9f9.png)
+
+
