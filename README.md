@@ -19,4 +19,5 @@ To build a wealthy nation we need healthy citizens ,so here we are building the 
 Firebase a set of tools offered by Google to build scalable applications in the cloud. One of the core products of firebase is Realtime Database. We have used this tool to maintain the database for the application. Each patient and doctor will have individual database that contains the information of the patients as well as doctors.
 
 
+
 The database stores all informtion about the patients that will be relevant for future check-ups. It will share this data with the doctor as and when needed.
