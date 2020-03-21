@@ -20,7 +20,7 @@ Firebase a set of tools offered by Google to build scalable applications in the 
 
 The database stores all informtion about the patients that will be relevant for future check-ups. It will share this data with the doctor as and when needed.
 ### MIT App Inventor
-MIT App Inventor is an intuitive, visual programming environment that allows to build fully functional apps. We have used this tool to create the app named Fine-Feather. In this app the information of the patients like past medication, allergies etc are taken as the input to the app and stored into the database. This information is used for further referance by the doctor. The app also shows the information of the doctors. It will also show the contact details of nearby doctors to the patient.
+MIT App Inventor is an intuitive, visual programming environment that allows to build fully functional apps. We have used this tool to create the app named Fine-Feather. In this app the information of the patients like past medication, allergies etc are taken as the input to the app and stored into the database. This information is used for further referance by the doctor. The app also shows the information of the doctors. It will also show the contact details of nearby doctors to the patient which will help the patient during emergency.
 
 
 ## The App
