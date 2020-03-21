@@ -12,6 +12,8 @@ To build a wealthy nation we need healthy citizens ,so here we are building the 
 
 4)Provides the patient details required for medical documentation.
 
+5)This app reduces the risks of wrong diagnosis as all medical history of the patient is shown in this.
+
 ## Backend
 ### Google Firebase
 Firebase a set of tools offered by Google to build scalable applications in the cloud. One of the core products of firebase is Realtime Database. We have used this tool to maintain the database for the application. Each patient and doctor will have individual database that contains the information of the patients as well as doctors.
