@@ -12,3 +12,5 @@ To build a wealthy nation we need healthy citizens ,so here we are building the 
 
 4)Provides the patient details required for medical documentation.
 
+## Backend
+The database is maintained on Google Firebase
