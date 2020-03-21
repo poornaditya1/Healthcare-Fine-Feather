@@ -44,3 +44,5 @@ MIT App Inventor is an intuitive, visual programming environment that allows to 
 
 ### Patient's Interface
 https://www.youtube.com/watch?v=fw_vlO5Yp-k
+
+### Doctor's Interface
