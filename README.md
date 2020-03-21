@@ -26,8 +26,9 @@ The database stores all informtion about the patients that will be relevant for 
 ## The App
 
 ### Screenshots
-![Screenshot (111)](https://user-images.githubusercontent.com/42487913/77227047-24d4f980-6ba3-11ea-9b20-4cdb64ccb0c6.png)
+![Screenshot (52)](https://user-images.githubusercontent.com/62421629/77229444-04616b00-6bb4-11ea-8db7-de106f44ddc6.png)
 
-![Screenshot (112)](https://user-images.githubusercontent.com/42487913/77227050-2b637100-6ba3-11ea-8fc3-158ed781d9f9.png)
+
+![edited](https://user-images.githubusercontent.com/62421629/77229453-1e02b280-6bb4-11ea-8fa3-3999bd1faade.png)
 
 
