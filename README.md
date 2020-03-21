@@ -19,8 +19,8 @@ To build a wealthy nation we need healthy citizens ,so here we are building the 
 Firebase a set of tools offered by Google to build scalable applications in the cloud. One of the core products of firebase is Realtime Database. We have used this tool to maintain the database for the application. Each patient and doctor will have individual database that contains the information of the patients as well as doctors.
 
 The database stores all informtion about the patients that will be relevant for future check-ups. It will share this data with the doctor as and when needed.
-
-
+### MIT App Inventor
+MIT App Inventor is an intuitive, visual programming environment that allows to build fully functional apps. We have used this tool to create the app named Fine-Feather. In this app the information of the patients like past medication, allergies etc are taken as the input to the app and stored into the database. This information is used for further referance by the doctor. The app also shows the information of the doctors.
 
 
 ## The App
