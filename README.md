@@ -12,7 +12,7 @@ To build a wealthy nation we need healthy citizens ,so here we are building the 
 
 4)Provides the patient details required for medical documentation.
 
-5)This app reduces the risks of wrong diagnosis as all medical history of the patient is shown in this.
+5)This app reduces the risks of wrong diagnosis as all medical history of the patient is shown in this and also allows the patient to know the information of the doctor.
 
 ## Backend
 ### Google Firebase
@@ -28,7 +28,6 @@ MIT App Inventor is an intuitive, visual programming environment that allows to 
 ### Screenshots
 
 #### Blocks of the app
-
 ![Screenshot (52)](https://user-images.githubusercontent.com/62421629/77229444-04616b00-6bb4-11ea-8db7-de106f44ddc6.png)
 
 
@@ -38,6 +37,17 @@ MIT App Inventor is an intuitive, visual programming environment that allows to 
 
 #### Data stored into database
 ![edited](https://user-images.githubusercontent.com/62421629/77229453-1e02b280-6bb4-11ea-8fa3-3999bd1faade.png)
+
+#### Blocks of the app
+![Screenshot (108)](https://user-images.githubusercontent.com/42494834/77256258-16fea180-6c93-11ea-8018-1e8b5fddec3b.png)
+
+
+#### Layout of the app
+![Screenshot (110)](https://user-images.githubusercontent.com/42494834/77256496-bff9cc00-6c94-11ea-9e9c-15ab726ce0c9.png)
+
+
+#### Data stored into database
+![Screenshot (107)](https://user-images.githubusercontent.com/42494834/77256240-02baa480-6c93-11ea-82f7-ea35b11604f4.png)
 
 
 ## Videos
